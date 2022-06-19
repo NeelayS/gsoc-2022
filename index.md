@@ -6,7 +6,7 @@
 - **Mentors**: Dr. James Turner and Prof. Thomas Nowotny
 - **Project Title**: Creating Benchmark Datasets for Object Recognition with Event-based Cameras
 - **Project-related links**:
-  - [Code Repository](https://github.com/NeelayS/gsoc-2022/tree/gh-pages)
+  - [Code Repository](https://github.com/NeelayS/event-aug)
   - [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/dSlJsb1g)
   - [Blog](https://neelays.github.io/gsoc-2022/)
 
