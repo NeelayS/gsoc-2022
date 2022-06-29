@@ -36,6 +36,11 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 - Added code to generate streams of progressive Perlin noise
 - Worked on creating an automatic changelog generation workflow using GitHub Actions
 
+#### Week 2 ( 20th June - 26th June)
+
+- Added code for end-to-end spike encoding of videos using the threshold-based method
+- Tested the above method on real-world videos; happy with the results!
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NeelayS/gsoc-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
