@@ -47,6 +47,12 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 - Added code for injecting events in spike-encoded custom videos into existing event recordings to augment them
 - Worked on analyzing spike-encoded 3D Perlin noise
 
+
+#### Week 4 ( 4th July - 11th July)
+
+- Added code for downloading clips of desired duration from YouTube videos
+- Experimented with different kinds of resampling methods with 3D Perlin noise to get smoother spike encodings
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NeelayS/gsoc-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
