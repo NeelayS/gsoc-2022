@@ -22,13 +22,13 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 - Set up GitHub code repository for the project
 - Received data relevant to the project from mentors along with some starter code
 
-#### Week 0 ( 6th June - 12th June)
+#### Week 0 ( 6th June - 12th June )
 
 - Added code for generating 2D Perlin noise
 - Added code for spike encoding of image / video data using rate coding
 - Set up continuous integration (CI) for the package which includes unit tests and linting and formatting checks
 
-#### Week 1 ( 13th June - 19th June)
+#### Week 1 ( 13th June - 19th June )
 
 - Added code coverage check to CI workflow
 - Created a GitHub pages site for the project
@@ -36,22 +36,26 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 - Added code to generate streams of progressive Perlin noise
 - Worked on creating an automatic changelog generation workflow using GitHub Actions
 
-#### Week 2 ( 20th June - 26th June)
+#### Week 2 ( 20th June - 26th June )
 
 - Added code for end-to-end spike encoding of videos using the threshold-based method
 - Tested the above method on real-world videos; happy with the results!
 
 
-#### Week 3 ( 27th June - 3rd July)
+#### Week 3 ( 27th June - 3rd July )
 
 - Added code for injecting events in spike-encoded custom videos into existing event recordings to augment them
 - Worked on analyzing spike-encoded 3D Perlin noise
 
 
-#### Week 4 ( 4th July - 11th July)
+#### Week 4 ( 4th July - 10th July )
 
 - Added code for downloading clips of desired duration from YouTube videos
 - Experimented with different kinds of resampling methods with 3D Perlin noise to get smoother spike encodings
+
+#### Week 5 ( 11th July - 17th July )
+
+- Experimented with different settings and parameters for generation of 3D Perlin noise
 
 <!-- ## Welcome to GitHub Pages
 
