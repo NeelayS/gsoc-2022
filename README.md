@@ -57,6 +57,22 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 
 - Experimented with different settings and parameters for generation of 3D Perlin noise
 
+#### Week 6 ( 18th July - 24th July )
+
+- Worked on writing code for converting encoded videos / 3D noise to event sequence representation 
+
+#### Week 7 ( 25th July - 31st July )
+
+- Completed the functionality for transforming spike encodings to the event sequence format
+
+#### Week 8 ( 1st August - 7th August )
+
+- Augmented multiple pre-existing object recordings using Perlin noise and videos from YouTube 
+
+#### Week 9 ( 8th August - 14th August )
+
+- Created an IPython notebook to demonstrate the entire workflow for augmenting event-camera datasets
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NeelayS/gsoc-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
