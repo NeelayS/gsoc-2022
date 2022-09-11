@@ -7,8 +7,9 @@
 - **Project Title**: Creating Benchmark Datasets for Object Recognition with Event-based Cameras
 - **Project-related links**:
   - [Code Repository](https://github.com/NeelayS/event_aug)
+  - [Documentation](https://event-aug.readthedocs.io/)
   - [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/dSlJsb1g)
-  - [Blog](https://neelays.github.io/gsoc-2022/)
+  - [Work Log](https://neelays.github.io/gsoc-2022/)
 
 ### Project Abstract
 
@@ -71,7 +72,16 @@ Event-based vision is a subfield of computer vision that deals with data from ev
 
 #### Week 9 ( 8th August - 14th August )
 
-- Created an IPython notebook to demonstrate the entire workflow for augmenting event-camera datasets
+- Created an IPython notebook to demonstrate the entire workflow for augmenting event-camera datasets using movies / videos
+
+#### Week 10 ( 15th August - 21th August )
+
+- Created another similar IPython notebook for augmentation using Perlin / Fractal noise
+
+#### Week 11 ( 22nd August - 28th August )
+
+- Created documentation website
+- Set up continuous deployment (CD) workflow
 
 <!-- ## Welcome to GitHub Pages
 
