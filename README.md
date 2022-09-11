@@ -8,6 +8,7 @@
 - **Project-related links**:
   - [Code Repository](https://github.com/NeelayS/event_aug)
   - [Documentation](https://event-aug.readthedocs.io/)
+  - [Tutorials](https://github.com/NeelayS/event_aug/tree/main/tutorial_ntbks)
   - [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/dSlJsb1g)
   - [Work Log](https://neelays.github.io/gsoc-2022/)
 
